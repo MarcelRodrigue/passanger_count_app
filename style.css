@@ -1,0 +1,36 @@
+.appbody{
+margin: 50%;
+width: 16em;
+height: 19em;
+border: #333 5px solid;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+background-color: rgba(182, 162, 162, 0.733);
+}
+p{
+font-size: larger;
+font-weight: bolder;
+}
+.btn1{
+    width: 14em;
+    padding: 1em;
+    color: #fff;
+    margin-top: 2em;
+    background-color: #333;
+}
+.btn2{
+    width: 14em;
+    padding: 1em;
+    color: #fff;
+    margin-top: 2em;
+    background-color: rgb(18, 204, 18);
+}
+
+.btn3{ width: 14em;
+    padding: 1em;
+    margin-top: 2em;
+    color: #fff;
+    background-color: rgb(235, 20, 20);
+}
